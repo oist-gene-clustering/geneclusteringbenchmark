@@ -1,0 +1,6 @@
+Title: Benchmark files for gene expression clustering algorithms
+License: MIT
+DisplayMode: Normal
+Author: Clemence Reda <creda@ens-paris-saclay.fr>
+Type: R
+Tags: gene expression rna seq single cell clustering benchmark
